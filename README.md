@@ -1,2 +1,2 @@
 # pynet20
-# konflikt
+# zmiana1
